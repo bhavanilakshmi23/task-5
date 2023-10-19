@@ -1,0 +1,23 @@
+{
+  "name": "Bhavani Lakshmi",
+  "contact_info": {
+   "phone": "9876788945",
+    "email": "bhavanilakshmi533@gmail.com"
+  },
+  "summary": "Junior full stack developer with a strong background in web development and a passion for creating innovative, user-friendly applications. Skilled in front-end and back-end technologies, and adept at collaborating with cross-functional teams to deliver high-quality software solutions.",
+  "education": [
+    {
+      "degree": "Bachelor of  Computer Application",
+      "University":"Thiruvallur university"
+      "graduation_date": "July 2022"
+    }
+  ],
+
+  "skills": {
+    "programming_languages": ["JavaScript"],
+    "web_technologies": ["HTML", "CSS", "React", "Node.js"],
+    "databases": ["MySQL", "MongoDB"],
+    "tools": ["Git",  "Visual Studio Code"],
+    "languages": ["English (Fluent)"]
+  }
+}
