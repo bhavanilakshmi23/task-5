@@ -1,0 +1,22 @@
+Window:-
+
+* The window object is the top-level object in the browser's Document Object Model (DOM). It represents the browser window 
+or tab and serves as the global object in the client-side JavaScript environment.
+* The window object provides access to a wide range of properties and methods for managing and controlling the browser window, 
+including opening and closing windows, navigating to URLs, handling events such as clicks and keypresses, and interacting with 
+frames and iframes.
+
+Screen:-
+
+* The screen object represents the user's screen or monitor. It provides information about the user's screen properties, including
+screen dimensions, color depth, pixel density, and more.
+* Developers often use the screen object to optimize web content for different screen sizes and resolutions or to determine the 
+available screen space for positioning elements, particularly in scenarios where the design and layout of a web page need to adapt
+to varying screen sizes.
+
+Document:-
+
+* The document object represents the web page or HTML document currently loaded in the browser window. It offers access to the 
+structure and content of the document, allowing you to manipulate and modify the Document Object Model (DOM).
+* Developers use the document object to access and manipulate HTML elements, create, delete, or update content on the web page,
+and respond to user interactions. It's an essential object for building dynamic and interactive web applications.
